@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketangupta1818&label=Profile%20views&color=0e75b6&style=flat" alt="ketangupta1818" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Data Structures and Algorithms**
-
-- 📫 How to reach me **ketangupta1818@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ketan-gupta-61709622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-gupta-61709622b" height="30" width="40" /></a>
