@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan Gupta</h1>
-<h3 align="center">I am a web developer and a competitive programmer</h3>
+<h3 align="center">I am a software engineer and a competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketangupta1818&label=Profile%20views&color=0e75b6&style=flat" alt="ketangupta1818" /> </p>
 
